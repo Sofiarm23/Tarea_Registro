@@ -37,6 +37,7 @@ namespace Tarea_Registro.Controllers
             }
             return View(registro);
             
+            
         }
 
         public IActionResult RegistroConfirmacion()
